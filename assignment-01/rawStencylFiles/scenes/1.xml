@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="2" extheight="512" extwidth="672" extx="-16" exty="-16" format="4.0.1" gravx="-0.0" gravy="0.0" height="480" id="1" name="testMaze" revision="" savecount="0" tiled="1" tileh="16" tilew="16" type="standard" width="640">
+    <layers>
+        <color-bg blue="0" green="0" red="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="1" name="player 1" order="0" sx="1.0" sy="1.0" x="312" y="280" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="4" name="pointPellet 2" order="1" sx="1.0" sy="1.0" x="464" y="288" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="4" id="4" name="pointPellet 3" order="2" sx="1.0" sy="1.0" x="464" y="272" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="4" id="4" name="pointPellet 4" order="3" sx="1.0" sy="1.0" x="464" y="256" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="4" id="4" name="pointPellet 5" order="4" sx="1.0" sy="1.0" x="464" y="304" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="4" id="4" name="pointPellet 6" order="5" sx="1.0" sy="1.0" x="464" y="320" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="4" id="4" name="pointPellet 7" order="6" sx="1.0" sy="1.0" x="464" y="336" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="4" id="4" name="pointPellet 8" order="7" sx="1.0" sy="1.0" x="464" y="352" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="4" id="4" name="pointPellet 9" order="8" sx="1.0" sy="1.0" x="464" y="368" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="4" id="4" name="pointPellet 10" order="9" sx="1.0" sy="1.0" x="464" y="384" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="4" id="4" name="pointPellet 11" order="10" sx="1.0" sy="1.0" x="464" y="400" z="0"/>
+        <actor a="0.0" aid="12" c="false" group="4" id="4" name="pointPellet 12" order="11" sx="1.0" sy="1.0" x="464" y="240" z="0"/>
+        <actor a="0.0" aid="13" c="false" group="4" id="4" name="pointPellet 13" order="12" sx="1.0" sy="1.0" x="464" y="224" z="0"/>
+        <actor a="0.0" aid="14" c="false" group="4" id="4" name="pointPellet 14" order="13" sx="1.0" sy="1.0" x="464" y="208" z="0"/>
+        <actor a="0.0" aid="15" c="false" group="4" id="4" name="pointPellet 15" order="14" sx="1.0" sy="1.0" x="400" y="200" z="0"/>
+        <actor a="0.0" aid="16" c="false" group="4" id="4" name="pointPellet 16" order="15" sx="1.0" sy="1.0" x="400" y="216" z="0"/>
+        <actor a="0.0" aid="17" c="false" group="4" id="4" name="pointPellet 17" order="16" sx="1.0" sy="1.0" x="400" y="232" z="0"/>
+        <actor a="0.0" aid="18" c="false" group="4" id="4" name="pointPellet 18" order="17" sx="1.0" sy="1.0" x="400" y="248" z="0"/>
+        <actor a="0.0" aid="19" c="false" group="4" id="4" name="pointPellet 19" order="18" sx="1.0" sy="1.0" x="400" y="264" z="0"/>
+        <actor a="0.0" aid="20" c="false" group="4" id="4" name="pointPellet 20" order="19" sx="1.0" sy="1.0" x="400" y="280" z="0"/>
+        <actor a="0.0" aid="21" c="false" group="4" id="4" name="pointPellet 21" order="20" sx="1.0" sy="1.0" x="400" y="296" z="0"/>
+        <actor a="0.0" aid="22" c="false" group="4" id="4" name="pointPellet 22" order="21" sx="1.0" sy="1.0" x="400" y="312" z="0"/>
+        <actor a="0.0" aid="23" c="false" group="4" id="4" name="pointPellet 23" order="22" sx="1.0" sy="1.0" x="400" y="328" z="0"/>
+        <actor a="0.0" aid="24" c="false" group="4" id="4" name="pointPellet 24" order="23" sx="1.0" sy="1.0" x="224" y="328" z="0"/>
+        <actor a="0.0" aid="25" c="false" group="4" id="4" name="pointPellet 25" order="24" sx="1.0" sy="1.0" x="224" y="312" z="0"/>
+        <actor a="0.0" aid="26" c="false" group="4" id="4" name="pointPellet 26" order="25" sx="1.0" sy="1.0" x="224" y="296" z="0"/>
+        <actor a="0.0" aid="27" c="false" group="4" id="4" name="pointPellet 27" order="26" sx="1.0" sy="1.0" x="224" y="280" z="0"/>
+        <actor a="0.0" aid="28" c="false" group="4" id="4" name="pointPellet 28" order="27" sx="1.0" sy="1.0" x="224" y="264" z="0"/>
+        <actor a="0.0" aid="29" c="false" group="4" id="4" name="pointPellet 29" order="28" sx="1.0" sy="1.0" x="224" y="248" z="0"/>
+        <actor a="0.0" aid="30" c="false" group="4" id="4" name="pointPellet 30" order="29" sx="1.0" sy="1.0" x="224" y="232" z="0"/>
+        <actor a="0.0" aid="31" c="false" group="4" id="4" name="pointPellet 31" order="30" sx="1.0" sy="1.0" x="224" y="216" z="0"/>
+        <actor a="0.0" aid="32" c="false" group="4" id="4" name="pointPellet 32" order="31" sx="1.0" sy="1.0" x="224" y="200" z="0"/>
+        <actor a="0.0" aid="33" c="false" group="4" id="4" name="pointPellet 33" order="32" sx="1.0" sy="1.0" x="240" y="184" z="0"/>
+        <actor a="0.0" aid="34" c="false" group="4" id="4" name="pointPellet 34" order="33" sx="1.0" sy="1.0" x="256" y="184" z="0"/>
+        <actor a="0.0" aid="36" c="false" group="4" id="4" name="pointPellet 36" order="34" sx="1.0" sy="1.0" x="280" y="160" z="0"/>
+        <actor a="0.0" aid="37" c="false" group="4" id="4" name="pointPellet 37" order="35" sx="1.0" sy="1.0" x="280" y="144" z="0"/>
+        <actor a="0.0" aid="38" c="false" group="4" id="4" name="pointPellet 38" order="36" sx="1.0" sy="1.0" x="272" y="136" z="0"/>
+        <actor a="0.0" aid="39" c="false" group="4" id="4" name="pointPellet 39" order="37" sx="1.0" sy="1.0" x="384" y="184" z="0"/>
+        <actor a="0.0" aid="40" c="false" group="4" id="4" name="pointPellet 40" order="38" sx="1.0" sy="1.0" x="368" y="184" z="0"/>
+        <actor a="0.0" aid="42" c="false" group="4" id="4" name="pointPellet 42" order="39" sx="1.0" sy="1.0" x="344" y="160" z="0"/>
+        <actor a="0.0" aid="43" c="false" group="4" id="4" name="pointPellet 43" order="40" sx="1.0" sy="1.0" x="344" y="144" z="0"/>
+        <actor a="0.0" aid="44" c="false" group="4" id="4" name="pointPellet 44" order="41" sx="1.0" sy="1.0" x="352" y="136" z="0"/>
+        <actor a="0.0" aid="46" c="false" group="4" id="4" name="pointPellet 46" order="42" sx="1.0" sy="1.0" x="368" y="136" z="0"/>
+        <actor a="0.0" aid="47" c="false" group="4" id="4" name="pointPellet 47" order="43" sx="1.0" sy="1.0" x="384" y="136" z="0"/>
+        <actor a="0.0" aid="48" c="false" group="4" id="4" name="pointPellet 48" order="44" sx="1.0" sy="1.0" x="400" y="128" z="0"/>
+        <actor a="0.0" aid="49" c="false" group="4" id="4" name="pointPellet 49" order="45" sx="1.0" sy="1.0" x="400" y="112" z="0"/>
+        <actor a="0.0" aid="50" c="false" group="4" id="4" name="pointPellet 50" order="46" sx="1.0" sy="1.0" x="400" y="96" z="0"/>
+        <actor a="0.0" aid="53" c="false" group="4" id="4" name="pointPellet 53" order="47" sx="1.0" sy="1.0" x="256" y="136" z="0"/>
+        <actor a="0.0" aid="54" c="false" group="4" id="4" name="pointPellet 54" order="48" sx="1.0" sy="1.0" x="240" y="136" z="0"/>
+        <actor a="0.0" aid="55" c="false" group="4" id="4" name="pointPellet 55" order="49" sx="1.0" sy="1.0" x="224" y="128" z="0"/>
+        <actor a="0.0" aid="56" c="false" group="4" id="4" name="pointPellet 56" order="50" sx="1.0" sy="1.0" x="224" y="112" z="0"/>
+        <actor a="0.0" aid="57" c="false" group="4" id="4" name="pointPellet 57" order="51" sx="1.0" sy="1.0" x="224" y="96" z="0"/>
+        <actor a="0.0" aid="58" c="false" group="4" id="4" name="pointPellet 58" order="52" sx="1.0" sy="1.0" x="464" y="192" z="0"/>
+        <actor a="0.0" aid="59" c="false" group="4" id="4" name="pointPellet 59" order="53" sx="1.0" sy="1.0" x="464" y="176" z="0"/>
+        <actor a="0.0" aid="60" c="false" group="4" id="4" name="pointPellet 60" order="54" sx="1.0" sy="1.0" x="464" y="160" z="0"/>
+        <actor a="0.0" aid="61" c="false" group="4" id="4" name="pointPellet 61" order="55" sx="1.0" sy="1.0" x="464" y="144" z="0"/>
+        <actor a="0.0" aid="62" c="false" group="4" id="4" name="pointPellet 62" order="56" sx="1.0" sy="1.0" x="464" y="128" z="0"/>
+        <actor a="0.0" aid="63" c="false" group="4" id="4" name="pointPellet 63" order="57" sx="1.0" sy="1.0" x="464" y="112" z="0"/>
+        <actor a="0.0" aid="64" c="false" group="4" id="4" name="pointPellet 64" order="58" sx="1.0" sy="1.0" x="464" y="96" z="0"/>
+        <actor a="0.0" aid="65" c="false" group="4" id="4" name="pointPellet 65" order="59" sx="1.0" sy="1.0" x="160" y="96" z="0"/>
+        <actor a="0.0" aid="66" c="false" group="4" id="4" name="pointPellet 66" order="60" sx="1.0" sy="1.0" x="160" y="112" z="0"/>
+        <actor a="0.0" aid="67" c="false" group="4" id="4" name="pointPellet 67" order="61" sx="1.0" sy="1.0" x="160" y="128" z="0"/>
+        <actor a="0.0" aid="68" c="false" group="4" id="4" name="pointPellet 68" order="62" sx="1.0" sy="1.0" x="160" y="144" z="0"/>
+        <actor a="0.0" aid="69" c="false" group="4" id="4" name="pointPellet 69" order="63" sx="1.0" sy="1.0" x="160" y="160" z="0"/>
+        <actor a="0.0" aid="70" c="false" group="4" id="4" name="pointPellet 70" order="64" sx="1.0" sy="1.0" x="160" y="176" z="0"/>
+        <actor a="0.0" aid="71" c="false" group="4" id="4" name="pointPellet 71" order="65" sx="1.0" sy="1.0" x="160" y="192" z="0"/>
+        <actor a="0.0" aid="72" c="false" group="4" id="4" name="pointPellet 72" order="66" sx="1.0" sy="1.0" x="160" y="208" z="0"/>
+        <actor a="0.0" aid="73" c="false" group="4" id="4" name="pointPellet 73" order="67" sx="1.0" sy="1.0" x="160" y="224" z="0"/>
+        <actor a="0.0" aid="74" c="false" group="4" id="4" name="pointPellet 74" order="68" sx="1.0" sy="1.0" x="160" y="240" z="0"/>
+        <actor a="0.0" aid="75" c="false" group="4" id="4" name="pointPellet 75" order="69" sx="1.0" sy="1.0" x="160" y="256" z="0"/>
+        <actor a="0.0" aid="76" c="false" group="4" id="4" name="pointPellet 76" order="70" sx="1.0" sy="1.0" x="160" y="272" z="0"/>
+        <actor a="0.0" aid="77" c="false" group="4" id="4" name="pointPellet 77" order="71" sx="1.0" sy="1.0" x="160" y="288" z="0"/>
+        <actor a="0.0" aid="78" c="false" group="4" id="4" name="pointPellet 78" order="72" sx="1.0" sy="1.0" x="160" y="304" z="0"/>
+        <actor a="0.0" aid="79" c="false" group="4" id="4" name="pointPellet 79" order="73" sx="1.0" sy="1.0" x="160" y="320" z="0"/>
+        <actor a="0.0" aid="80" c="false" group="4" id="4" name="pointPellet 80" order="74" sx="1.0" sy="1.0" x="160" y="336" z="0"/>
+        <actor a="0.0" aid="81" c="false" group="4" id="4" name="pointPellet 81" order="75" sx="1.0" sy="1.0" x="160" y="352" z="0"/>
+        <actor a="0.0" aid="82" c="false" group="4" id="4" name="pointPellet 82" order="76" sx="1.0" sy="1.0" x="160" y="368" z="0"/>
+        <actor a="0.0" aid="83" c="false" group="4" id="4" name="pointPellet 83" order="77" sx="1.0" sy="1.0" x="160" y="384" z="0"/>
+        <actor a="0.0" aid="84" c="false" group="4" id="4" name="pointPellet 84" order="78" sx="1.0" sy="1.0" x="160" y="400" z="0"/>
+        <actor a="0.0" aid="85" c="false" group="4" id="4" name="pointPellet 85" order="79" sx="1.0" sy="1.0" x="208" y="328" z="0"/>
+        <actor a="0.0" aid="86" c="false" group="4" id="4" name="pointPellet 86" order="80" sx="1.0" sy="1.0" x="192" y="328" z="0"/>
+        <actor a="0.0" aid="87" c="false" group="4" id="4" name="pointPellet 87" order="81" sx="1.0" sy="1.0" x="176" y="328" z="0"/>
+        <actor a="0.0" aid="88" c="false" group="4" id="4" name="pointPellet 88" order="82" sx="1.0" sy="1.0" x="384" y="328" z="0"/>
+        <actor a="0.0" aid="89" c="false" group="4" id="4" name="pointPellet 89" order="83" sx="1.0" sy="1.0" x="368" y="328" z="0"/>
+        <actor a="0.0" aid="90" c="false" group="4" id="4" name="pointPellet 90" order="84" sx="1.0" sy="1.0" x="352" y="328" z="0"/>
+        <actor a="0.0" aid="91" c="false" group="4" id="4" name="pointPellet 91" order="85" sx="1.0" sy="1.0" x="448" y="328" z="0"/>
+        <actor a="0.0" aid="92" c="false" group="4" id="4" name="pointPellet 92" order="86" sx="1.0" sy="1.0" x="432" y="328" z="0"/>
+        <actor a="0.0" aid="93" c="false" group="4" id="4" name="pointPellet 93" order="87" sx="1.0" sy="1.0" x="416" y="328" z="0"/>
+        <actor a="0.0" aid="94" c="false" group="4" id="4" name="pointPellet 94" order="88" sx="1.0" sy="1.0" x="272" y="328" z="0"/>
+        <actor a="0.0" aid="95" c="false" group="4" id="4" name="pointPellet 95" order="89" sx="1.0" sy="1.0" x="256" y="328" z="0"/>
+        <actor a="0.0" aid="96" c="false" group="4" id="4" name="pointPellet 96" order="90" sx="1.0" sy="1.0" x="240" y="328" z="0"/>
+        <actor a="0.0" aid="97" c="false" group="4" id="4" name="pointPellet 97" order="91" sx="1.0" sy="1.0" x="176" y="376" z="0"/>
+        <actor a="0.0" aid="98" c="false" group="4" id="4" name="pointPellet 98" order="92" sx="1.0" sy="1.0" x="192" y="376" z="0"/>
+        <actor a="0.0" aid="99" c="false" group="4" id="4" name="pointPellet 99" order="93" sx="1.0" sy="1.0" x="208" y="376" z="0"/>
+        <actor a="0.0" aid="100" c="false" group="4" id="4" name="pointPellet 100" order="94" sx="1.0" sy="1.0" x="224" y="376" z="0"/>
+        <actor a="0.0" aid="101" c="false" group="4" id="4" name="pointPellet 101" order="95" sx="1.0" sy="1.0" x="240" y="376" z="0"/>
+        <actor a="0.0" aid="102" c="false" group="4" id="4" name="pointPellet 102" order="96" sx="1.0" sy="1.0" x="256" y="376" z="0"/>
+        <actor a="0.0" aid="103" c="false" group="4" id="4" name="pointPellet 103" order="97" sx="1.0" sy="1.0" x="272" y="376" z="0"/>
+        <actor a="0.0" aid="104" c="false" group="4" id="4" name="pointPellet 104" order="98" sx="1.0" sy="1.0" x="288" y="376" z="0"/>
+        <actor a="0.0" aid="105" c="false" group="4" id="4" name="pointPellet 105" order="99" sx="1.0" sy="1.0" x="304" y="376" z="0"/>
+        <actor a="0.0" aid="106" c="false" group="4" id="4" name="pointPellet 106" order="100" sx="1.0" sy="1.0" x="320" y="376" z="0"/>
+        <actor a="0.0" aid="107" c="false" group="4" id="4" name="pointPellet 107" order="101" sx="1.0" sy="1.0" x="336" y="376" z="0"/>
+        <actor a="0.0" aid="108" c="false" group="4" id="4" name="pointPellet 108" order="102" sx="1.0" sy="1.0" x="352" y="376" z="0"/>
+        <actor a="0.0" aid="109" c="false" group="4" id="4" name="pointPellet 109" order="103" sx="1.0" sy="1.0" x="368" y="376" z="0"/>
+        <actor a="0.0" aid="110" c="false" group="4" id="4" name="pointPellet 110" order="104" sx="1.0" sy="1.0" x="384" y="376" z="0"/>
+        <actor a="0.0" aid="111" c="false" group="4" id="4" name="pointPellet 111" order="105" sx="1.0" sy="1.0" x="400" y="376" z="0"/>
+        <actor a="0.0" aid="112" c="false" group="4" id="4" name="pointPellet 112" order="106" sx="1.0" sy="1.0" x="416" y="376" z="0"/>
+        <actor a="0.0" aid="113" c="false" group="4" id="4" name="pointPellet 113" order="107" sx="1.0" sy="1.0" x="432" y="376" z="0"/>
+        <actor a="0.0" aid="114" c="false" group="4" id="4" name="pointPellet 114" order="108" sx="1.0" sy="1.0" x="448" y="376" z="0"/>
+        <actor a="0.0" aid="115" c="false" group="4" id="4" name="pointPellet 115" order="109" sx="1.0" sy="1.0" x="280" y="368" z="0"/>
+        <actor a="0.0" aid="116" c="false" group="4" id="4" name="pointPellet 116" order="110" sx="1.0" sy="1.0" x="344" y="368" z="0"/>
+        <actor a="0.0" aid="117" c="false" group="4" id="4" name="pointPellet 117" order="111" sx="1.0" sy="1.0" x="344" y="352" z="0"/>
+        <actor a="0.0" aid="118" c="false" group="4" id="4" name="pointPellet 118" order="112" sx="1.0" sy="1.0" x="280" y="352" z="0"/>
+        <actor a="0.0" aid="119" c="false" group="4" id="4" name="pointPellet 119" order="113" sx="1.0" sy="1.0" x="320" y="184" z="0"/>
+        <actor a="0.0" aid="122" c="false" group="4" id="4" name="pointPellet 122" order="114" sx="1.0" sy="1.0" x="304" y="184" z="0"/>
+        <actor a="0.0" aid="123" c="false" group="4" id="4" name="pointPellet 123" order="115" sx="1.0" sy="1.0" x="176" y="96" z="0"/>
+        <actor a="0.0" aid="124" c="false" group="4" id="4" name="pointPellet 124" order="116" sx="1.0" sy="1.0" x="192" y="96" z="0"/>
+        <actor a="0.0" aid="125" c="false" group="4" id="4" name="pointPellet 125" order="117" sx="1.0" sy="1.0" x="208" y="96" z="0"/>
+        <actor a="0.0" aid="126" c="false" group="4" id="4" name="pointPellet 126" order="118" sx="1.0" sy="1.0" x="240" y="96" z="0"/>
+        <actor a="0.0" aid="127" c="false" group="4" id="4" name="pointPellet 127" order="119" sx="1.0" sy="1.0" x="256" y="96" z="0"/>
+        <actor a="0.0" aid="128" c="false" group="4" id="4" name="pointPellet 128" order="120" sx="1.0" sy="1.0" x="272" y="96" z="0"/>
+        <actor a="0.0" aid="129" c="false" group="4" id="4" name="pointPellet 129" order="121" sx="1.0" sy="1.0" x="288" y="96" z="0"/>
+        <actor a="0.0" aid="130" c="false" group="4" id="4" name="pointPellet 130" order="122" sx="1.0" sy="1.0" x="304" y="96" z="0"/>
+        <actor a="0.0" aid="131" c="false" group="4" id="4" name="pointPellet 131" order="123" sx="1.0" sy="1.0" x="320" y="96" z="0"/>
+        <actor a="0.0" aid="132" c="false" group="4" id="4" name="pointPellet 132" order="124" sx="1.0" sy="1.0" x="336" y="96" z="0"/>
+        <actor a="0.0" aid="133" c="false" group="4" id="4" name="pointPellet 133" order="125" sx="1.0" sy="1.0" x="352" y="96" z="0"/>
+        <actor a="0.0" aid="134" c="false" group="4" id="4" name="pointPellet 134" order="126" sx="1.0" sy="1.0" x="368" y="96" z="0"/>
+        <actor a="0.0" aid="135" c="false" group="4" id="4" name="pointPellet 135" order="127" sx="1.0" sy="1.0" x="384" y="96" z="0"/>
+        <actor a="0.0" aid="136" c="false" group="4" id="4" name="pointPellet 136" order="128" sx="1.0" sy="1.0" x="432" y="96" z="0"/>
+        <actor a="0.0" aid="137" c="false" group="4" id="4" name="pointPellet 137" order="129" sx="1.0" sy="1.0" x="448" y="96" z="0"/>
+        <actor a="0.0" aid="138" c="false" group="4" id="4" name="pointPellet 138" order="130" sx="1.0" sy="1.0" x="416" y="96" z="0"/>
+        <actor a="0.0" aid="139" c="false" group="4" id="4" name="pointPellet 139" order="131" sx="1.0" sy="1.0" x="464" y="80" z="0"/>
+        <actor a="0.0" aid="140" c="false" group="4" id="4" name="pointPellet 140" order="132" sx="1.0" sy="1.0" x="464" y="64" z="0"/>
+        <actor a="0.0" aid="141" c="false" group="4" id="4" name="pointPellet 141" order="133" sx="1.0" sy="1.0" x="464" y="48" z="0"/>
+        <actor a="0.0" aid="142" c="false" group="4" id="4" name="pointPellet 142" order="134" sx="1.0" sy="1.0" x="464" y="32" z="0"/>
+        <actor a="0.0" aid="143" c="false" group="4" id="4" name="pointPellet 143" order="135" sx="1.0" sy="1.0" x="464" y="16" z="0"/>
+        <actor a="0.0" aid="144" c="false" group="4" id="4" name="pointPellet 144" order="136" sx="1.0" sy="1.0" x="448" y="16" z="0"/>
+        <actor a="0.0" aid="145" c="false" group="4" id="4" name="pointPellet 145" order="137" sx="1.0" sy="1.0" x="432" y="16" z="0"/>
+        <actor a="0.0" aid="146" c="false" group="4" id="4" name="pointPellet 146" order="138" sx="1.0" sy="1.0" x="416" y="16" z="0"/>
+        <actor a="0.0" aid="147" c="false" group="4" id="4" name="pointPellet 147" order="139" sx="1.0" sy="1.0" x="400" y="16" z="0"/>
+        <actor a="0.0" aid="148" c="false" group="4" id="4" name="pointPellet 148" order="140" sx="1.0" sy="1.0" x="384" y="16" z="0"/>
+        <actor a="0.0" aid="149" c="false" group="4" id="4" name="pointPellet 149" order="141" sx="1.0" sy="1.0" x="368" y="16" z="0"/>
+        <actor a="0.0" aid="150" c="false" group="4" id="4" name="pointPellet 150" order="142" sx="1.0" sy="1.0" x="352" y="16" z="0"/>
+        <actor a="0.0" aid="151" c="false" group="4" id="4" name="pointPellet 151" order="143" sx="1.0" sy="1.0" x="344" y="32" z="0"/>
+        <actor a="0.0" aid="152" c="false" group="4" id="4" name="pointPellet 152" order="144" sx="1.0" sy="1.0" x="344" y="48" z="0"/>
+        <actor a="0.0" aid="153" c="false" group="4" id="4" name="pointPellet 153" order="145" sx="1.0" sy="1.0" x="344" y="64" z="0"/>
+        <actor a="0.0" aid="154" c="false" group="4" id="4" name="pointPellet 154" order="146" sx="1.0" sy="1.0" x="344" y="80" z="0"/>
+        <actor a="0.0" aid="155" c="false" group="4" id="4" name="pointPellet 155" order="147" sx="1.0" sy="1.0" x="280" y="80" z="0"/>
+        <actor a="0.0" aid="156" c="false" group="4" id="4" name="pointPellet 156" order="148" sx="1.0" sy="1.0" x="280" y="64" z="0"/>
+        <actor a="0.0" aid="157" c="false" group="4" id="4" name="pointPellet 157" order="149" sx="1.0" sy="1.0" x="280" y="48" z="0"/>
+        <actor a="0.0" aid="158" c="false" group="4" id="4" name="pointPellet 158" order="150" sx="1.0" sy="1.0" x="280" y="32" z="0"/>
+        <actor a="0.0" aid="159" c="false" group="4" id="4" name="pointPellet 159" order="151" sx="1.0" sy="1.0" x="272" y="16" z="0"/>
+        <actor a="0.0" aid="160" c="false" group="4" id="4" name="pointPellet 160" order="152" sx="1.0" sy="1.0" x="256" y="16" z="0"/>
+        <actor a="0.0" aid="161" c="false" group="4" id="4" name="pointPellet 161" order="153" sx="1.0" sy="1.0" x="240" y="16" z="0"/>
+        <actor a="0.0" aid="162" c="false" group="4" id="4" name="pointPellet 162" order="154" sx="1.0" sy="1.0" x="224" y="16" z="0"/>
+        <actor a="0.0" aid="163" c="false" group="4" id="4" name="pointPellet 163" order="155" sx="1.0" sy="1.0" x="208" y="16" z="0"/>
+        <actor a="0.0" aid="164" c="false" group="4" id="4" name="pointPellet 164" order="156" sx="1.0" sy="1.0" x="192" y="16" z="0"/>
+        <actor a="0.0" aid="165" c="false" group="4" id="4" name="pointPellet 165" order="157" sx="1.0" sy="1.0" x="176" y="16" z="0"/>
+        <actor a="0.0" aid="166" c="false" group="4" id="4" name="pointPellet 166" order="158" sx="1.0" sy="1.0" x="160" y="16" z="0"/>
+        <actor a="0.0" aid="167" c="false" group="4" id="4" name="pointPellet 167" order="159" sx="1.0" sy="1.0" x="160" y="32" z="0"/>
+        <actor a="0.0" aid="168" c="false" group="4" id="4" name="pointPellet 168" order="160" sx="1.0" sy="1.0" x="160" y="48" z="0"/>
+        <actor a="0.0" aid="169" c="false" group="4" id="4" name="pointPellet 169" order="161" sx="1.0" sy="1.0" x="160" y="64" z="0"/>
+        <actor a="0.0" aid="170" c="false" group="4" id="4" name="pointPellet 170" order="162" sx="1.0" sy="1.0" x="160" y="80" z="0"/>
+        <actor a="0.0" aid="171" c="false" group="4" id="4" name="pointPellet 171" order="163" sx="1.0" sy="1.0" x="144" y="16" z="0"/>
+        <actor a="0.0" aid="172" c="false" group="4" id="4" name="pointPellet 172" order="164" sx="1.0" sy="1.0" x="128" y="16" z="0"/>
+        <actor a="0.0" aid="173" c="false" group="4" id="4" name="pointPellet 173" order="165" sx="1.0" sy="1.0" x="112" y="16" z="0"/>
+        <actor a="0.0" aid="174" c="false" group="4" id="4" name="pointPellet 174" order="166" sx="1.0" sy="1.0" x="96" y="16" z="0"/>
+        <actor a="0.0" aid="175" c="false" group="4" id="4" name="pointPellet 175" order="167" sx="1.0" sy="1.0" x="80" y="16" z="0"/>
+        <actor a="0.0" aid="176" c="false" group="4" id="4" name="pointPellet 176" order="168" sx="1.0" sy="1.0" x="64" y="16" z="0"/>
+        <actor a="0.0" aid="177" c="false" group="4" id="4" name="pointPellet 177" order="169" sx="1.0" sy="1.0" x="48" y="16" z="0"/>
+        <actor a="0.0" aid="178" c="false" group="4" id="4" name="pointPellet 178" order="170" sx="1.0" sy="1.0" x="32" y="16" z="0"/>
+        <actor a="0.0" aid="179" c="false" group="4" id="4" name="pointPellet 179" order="171" sx="1.0" sy="1.0" x="16" y="16" z="0"/>
+        <actor a="0.0" aid="180" c="false" group="4" id="4" name="pointPellet 180" order="172" sx="1.0" sy="1.0" x="16" y="32" z="0"/>
+        <actor a="0.0" aid="181" c="false" group="4" id="4" name="pointPellet 181" order="173" sx="1.0" sy="1.0" x="16" y="48" z="0"/>
+        <actor a="0.0" aid="182" c="false" group="4" id="4" name="pointPellet 182" order="174" sx="1.0" sy="1.0" x="16" y="64" z="0"/>
+        <actor a="0.0" aid="183" c="false" group="4" id="4" name="pointPellet 183" order="175" sx="1.0" sy="1.0" x="16" y="80" z="0"/>
+        <actor a="0.0" aid="184" c="false" group="4" id="4" name="pointPellet 184" order="176" sx="1.0" sy="1.0" x="16" y="96" z="0"/>
+        <actor a="0.0" aid="185" c="false" group="4" id="4" name="pointPellet 185" order="177" sx="1.0" sy="1.0" x="16" y="112" z="0"/>
+        <actor a="0.0" aid="186" c="false" group="4" id="4" name="pointPellet 186" order="178" sx="1.0" sy="1.0" x="16" y="128" z="0"/>
+        <actor a="0.0" aid="187" c="false" group="4" id="4" name="pointPellet 187" order="179" sx="1.0" sy="1.0" x="16" y="144" z="0"/>
+        <actor a="0.0" aid="188" c="false" group="4" id="4" name="pointPellet 188" order="180" sx="1.0" sy="1.0" x="32" y="144" z="0"/>
+        <actor a="0.0" aid="189" c="false" group="4" id="4" name="pointPellet 189" order="181" sx="1.0" sy="1.0" x="48" y="144" z="0"/>
+        <actor a="0.0" aid="190" c="false" group="4" id="4" name="pointPellet 190" order="182" sx="1.0" sy="1.0" x="64" y="144" z="0"/>
+        <actor a="0.0" aid="194" c="false" group="4" id="4" name="pointPellet 194" order="183" sx="1.0" sy="1.0" x="112" y="144" z="0"/>
+        <actor a="0.0" aid="195" c="false" group="4" id="4" name="pointPellet 195" order="184" sx="1.0" sy="1.0" x="96" y="144" z="0"/>
+        <actor a="0.0" aid="196" c="false" group="4" id="4" name="pointPellet 196" order="185" sx="1.0" sy="1.0" x="80" y="144" z="0"/>
+        <actor a="0.0" aid="197" c="false" group="4" id="4" name="pointPellet 197" order="186" sx="1.0" sy="1.0" x="128" y="144" z="0"/>
+        <actor a="0.0" aid="198" c="false" group="4" id="4" name="pointPellet 198" order="187" sx="1.0" sy="1.0" x="144" y="144" z="0"/>
+        <actor a="0.0" aid="199" c="false" group="4" id="4" name="pointPellet 199" order="188" sx="1.0" sy="1.0" x="32" y="96" z="0"/>
+        <actor a="0.0" aid="200" c="false" group="4" id="4" name="pointPellet 200" order="189" sx="1.0" sy="1.0" x="48" y="96" z="0"/>
+        <actor a="0.0" aid="201" c="false" group="4" id="4" name="pointPellet 201" order="190" sx="1.0" sy="1.0" x="64" y="96" z="0"/>
+        <actor a="0.0" aid="202" c="false" group="4" id="4" name="pointPellet 202" order="191" sx="1.0" sy="1.0" x="80" y="96" z="0"/>
+        <actor a="0.0" aid="203" c="false" group="4" id="4" name="pointPellet 203" order="192" sx="1.0" sy="1.0" x="96" y="96" z="0"/>
+        <actor a="0.0" aid="204" c="false" group="4" id="4" name="pointPellet 204" order="193" sx="1.0" sy="1.0" x="112" y="96" z="0"/>
+        <actor a="0.0" aid="205" c="false" group="4" id="4" name="pointPellet 205" order="194" sx="1.0" sy="1.0" x="128" y="96" z="0"/>
+        <actor a="0.0" aid="206" c="false" group="4" id="4" name="pointPellet 206" order="195" sx="1.0" sy="1.0" x="144" y="96" z="0"/>
+        <actor a="0.0" aid="207" c="false" group="4" id="4" name="pointPellet 207" order="196" sx="1.0" sy="1.0" x="480" y="144" z="0"/>
+        <actor a="0.0" aid="208" c="false" group="4" id="4" name="pointPellet 208" order="197" sx="1.0" sy="1.0" x="496" y="144" z="0"/>
+        <actor a="0.0" aid="209" c="false" group="4" id="4" name="pointPellet 209" order="198" sx="1.0" sy="1.0" x="512" y="144" z="0"/>
+        <actor a="0.0" aid="210" c="false" group="4" id="4" name="pointPellet 210" order="199" sx="1.0" sy="1.0" x="528" y="144" z="0"/>
+        <actor a="0.0" aid="211" c="false" group="4" id="4" name="pointPellet 211" order="200" sx="1.0" sy="1.0" x="544" y="144" z="0"/>
+        <actor a="0.0" aid="212" c="false" group="4" id="4" name="pointPellet 212" order="201" sx="1.0" sy="1.0" x="560" y="144" z="0"/>
+        <actor a="0.0" aid="213" c="false" group="4" id="4" name="pointPellet 213" order="202" sx="1.0" sy="1.0" x="576" y="144" z="0"/>
+        <actor a="0.0" aid="214" c="false" group="4" id="4" name="pointPellet 214" order="203" sx="1.0" sy="1.0" x="592" y="144" z="0"/>
+        <actor a="0.0" aid="215" c="false" group="4" id="4" name="pointPellet 215" order="204" sx="1.0" sy="1.0" x="608" y="144" z="0"/>
+        <actor a="0.0" aid="216" c="false" group="4" id="4" name="pointPellet 216" order="205" sx="1.0" sy="1.0" x="608" y="128" z="0"/>
+        <actor a="0.0" aid="217" c="false" group="4" id="4" name="pointPellet 217" order="206" sx="1.0" sy="1.0" x="608" y="112" z="0"/>
+        <actor a="0.0" aid="218" c="false" group="4" id="4" name="pointPellet 218" order="207" sx="1.0" sy="1.0" x="608" y="96" z="0"/>
+        <actor a="0.0" aid="219" c="false" group="4" id="4" name="pointPellet 219" order="208" sx="1.0" sy="1.0" x="592" y="96" z="0"/>
+        <actor a="0.0" aid="220" c="false" group="4" id="4" name="pointPellet 220" order="209" sx="1.0" sy="1.0" x="576" y="96" z="0"/>
+        <actor a="0.0" aid="221" c="false" group="4" id="4" name="pointPellet 221" order="210" sx="1.0" sy="1.0" x="560" y="96" z="0"/>
+        <actor a="0.0" aid="222" c="false" group="4" id="4" name="pointPellet 222" order="211" sx="1.0" sy="1.0" x="544" y="96" z="0"/>
+        <actor a="0.0" aid="223" c="false" group="4" id="4" name="pointPellet 223" order="212" sx="1.0" sy="1.0" x="528" y="96" z="0"/>
+        <actor a="0.0" aid="224" c="false" group="4" id="4" name="pointPellet 224" order="213" sx="1.0" sy="1.0" x="512" y="96" z="0"/>
+        <actor a="0.0" aid="225" c="false" group="4" id="4" name="pointPellet 225" order="214" sx="1.0" sy="1.0" x="496" y="96" z="0"/>
+        <actor a="0.0" aid="226" c="false" group="4" id="4" name="pointPellet 226" order="215" sx="1.0" sy="1.0" x="480" y="96" z="0"/>
+        <actor a="0.0" aid="227" c="false" group="4" id="4" name="pointPellet 227" order="216" sx="1.0" sy="1.0" x="608" y="80" z="0"/>
+        <actor a="0.0" aid="228" c="false" group="4" id="4" name="pointPellet 228" order="217" sx="1.0" sy="1.0" x="608" y="64" z="0"/>
+        <actor a="0.0" aid="229" c="false" group="4" id="4" name="pointPellet 229" order="218" sx="1.0" sy="1.0" x="608" y="48" z="0"/>
+        <actor a="0.0" aid="230" c="false" group="4" id="4" name="pointPellet 230" order="219" sx="1.0" sy="1.0" x="608" y="32" z="0"/>
+        <actor a="0.0" aid="231" c="false" group="4" id="4" name="pointPellet 231" order="220" sx="1.0" sy="1.0" x="608" y="16" z="0"/>
+        <actor a="0.0" aid="232" c="false" group="4" id="4" name="pointPellet 232" order="221" sx="1.0" sy="1.0" x="592" y="16" z="0"/>
+        <actor a="0.0" aid="233" c="false" group="4" id="4" name="pointPellet 233" order="222" sx="1.0" sy="1.0" x="576" y="16" z="0"/>
+        <actor a="0.0" aid="234" c="false" group="4" id="4" name="pointPellet 234" order="223" sx="1.0" sy="1.0" x="560" y="16" z="0"/>
+        <actor a="0.0" aid="235" c="false" group="4" id="4" name="pointPellet 235" order="224" sx="1.0" sy="1.0" x="544" y="16" z="0"/>
+        <actor a="0.0" aid="236" c="false" group="4" id="4" name="pointPellet 236" order="225" sx="1.0" sy="1.0" x="528" y="16" z="0"/>
+        <actor a="0.0" aid="237" c="false" group="4" id="4" name="pointPellet 237" order="226" sx="1.0" sy="1.0" x="512" y="16" z="0"/>
+        <actor a="0.0" aid="238" c="false" group="4" id="4" name="pointPellet 238" order="227" sx="1.0" sy="1.0" x="496" y="16" z="0"/>
+        <actor a="0.0" aid="239" c="false" group="4" id="4" name="pointPellet 239" order="228" sx="1.0" sy="1.0" x="480" y="16" z="0"/>
+        <actor a="0.0" aid="240" c="false" group="4" id="4" name="pointPellet 240" order="229" sx="1.0" sy="1.0" x="416" y="232" z="0"/>
+        <actor a="0.0" aid="241" c="false" group="4" id="4" name="pointPellet 241" order="230" sx="1.0" sy="1.0" x="432" y="232" z="0"/>
+        <actor a="0.0" aid="242" c="false" group="4" id="4" name="pointPellet 242" order="231" sx="1.0" sy="1.0" x="448" y="232" z="0"/>
+        <actor a="0.0" aid="243" c="false" group="4" id="4" name="pointPellet 243" order="232" sx="1.0" sy="1.0" x="208" y="232" z="0"/>
+        <actor a="0.0" aid="244" c="false" group="4" id="4" name="pointPellet 244" order="233" sx="1.0" sy="1.0" x="192" y="232" z="0"/>
+        <actor a="0.0" aid="245" c="false" group="4" id="4" name="pointPellet 245" order="234" sx="1.0" sy="1.0" x="176" y="232" z="0"/>
+        <actor a="0.0" aid="246" c="false" group="4" id="4" name="pointPellet 246" order="235" sx="1.0" sy="1.0" x="480" y="232" z="0"/>
+        <actor a="0.0" aid="247" c="false" group="4" id="4" name="pointPellet 247" order="236" sx="1.0" sy="1.0" x="496" y="232" z="0"/>
+        <actor a="0.0" aid="248" c="false" group="4" id="4" name="pointPellet 248" order="237" sx="1.0" sy="1.0" x="512" y="232" z="0"/>
+        <actor a="0.0" aid="249" c="false" group="4" id="4" name="pointPellet 249" order="238" sx="1.0" sy="1.0" x="528" y="232" z="0"/>
+        <actor a="0.0" aid="250" c="false" group="4" id="4" name="pointPellet 250" order="239" sx="1.0" sy="1.0" x="544" y="232" z="0"/>
+        <actor a="0.0" aid="251" c="false" group="4" id="4" name="pointPellet 251" order="240" sx="1.0" sy="1.0" x="560" y="232" z="0"/>
+        <actor a="0.0" aid="252" c="false" group="4" id="4" name="pointPellet 252" order="241" sx="1.0" sy="1.0" x="576" y="232" z="0"/>
+        <actor a="0.0" aid="253" c="false" group="4" id="4" name="pointPellet 253" order="242" sx="1.0" sy="1.0" x="592" y="232" z="0"/>
+        <actor a="0.0" aid="254" c="false" group="4" id="4" name="pointPellet 254" order="243" sx="1.0" sy="1.0" x="608" y="232" z="0"/>
+        <actor a="0.0" aid="255" c="false" group="4" id="4" name="pointPellet 255" order="244" sx="1.0" sy="1.0" x="624" y="232" z="0"/>
+        <actor a="0.0" aid="256" c="false" group="4" id="4" name="pointPellet 256" order="245" sx="1.0" sy="1.0" x="144" y="232" z="0"/>
+        <actor a="0.0" aid="257" c="false" group="4" id="4" name="pointPellet 257" order="246" sx="1.0" sy="1.0" x="128" y="232" z="0"/>
+        <actor a="0.0" aid="258" c="false" group="4" id="4" name="pointPellet 258" order="247" sx="1.0" sy="1.0" x="112" y="232" z="0"/>
+        <actor a="0.0" aid="259" c="false" group="4" id="4" name="pointPellet 259" order="248" sx="1.0" sy="1.0" x="96" y="232" z="0"/>
+        <actor a="0.0" aid="260" c="false" group="4" id="4" name="pointPellet 260" order="249" sx="1.0" sy="1.0" x="80" y="232" z="0"/>
+        <actor a="0.0" aid="261" c="false" group="4" id="4" name="pointPellet 261" order="250" sx="1.0" sy="1.0" x="64" y="232" z="0"/>
+        <actor a="0.0" aid="262" c="false" group="4" id="4" name="pointPellet 262" order="251" sx="1.0" sy="1.0" x="48" y="232" z="0"/>
+        <actor a="0.0" aid="263" c="false" group="4" id="4" name="pointPellet 263" order="252" sx="1.0" sy="1.0" x="32" y="232" z="0"/>
+        <actor a="0.0" aid="264" c="false" group="4" id="4" name="pointPellet 264" order="253" sx="1.0" sy="1.0" x="16" y="232" z="0"/>
+        <actor a="0.0" aid="265" c="false" group="4" id="4" name="pointPellet 265" order="254" sx="1.0" sy="1.0" x="0" y="232" z="0"/>
+        <actor a="0.0" aid="266" c="false" group="4" id="4" name="pointPellet 266" order="255" sx="1.0" sy="1.0" x="144" y="320" z="0"/>
+        <actor a="0.0" aid="267" c="false" group="4" id="4" name="pointPellet 267" order="256" sx="1.0" sy="1.0" x="128" y="320" z="0"/>
+        <actor a="0.0" aid="268" c="false" group="4" id="4" name="pointPellet 268" order="257" sx="1.0" sy="1.0" x="112" y="320" z="0"/>
+        <actor a="0.0" aid="269" c="false" group="4" id="4" name="pointPellet 269" order="258" sx="1.0" sy="1.0" x="96" y="320" z="0"/>
+        <actor a="0.0" aid="270" c="false" group="4" id="4" name="pointPellet 270" order="259" sx="1.0" sy="1.0" x="80" y="320" z="0"/>
+        <actor a="0.0" aid="271" c="false" group="4" id="4" name="pointPellet 271" order="260" sx="1.0" sy="1.0" x="64" y="320" z="0"/>
+        <actor a="0.0" aid="272" c="false" group="4" id="4" name="pointPellet 272" order="261" sx="1.0" sy="1.0" x="48" y="320" z="0"/>
+        <actor a="0.0" aid="273" c="false" group="4" id="4" name="pointPellet 273" order="262" sx="1.0" sy="1.0" x="32" y="320" z="0"/>
+        <actor a="0.0" aid="274" c="false" group="4" id="4" name="pointPellet 274" order="263" sx="1.0" sy="1.0" x="24" y="336" z="0"/>
+        <actor a="0.0" aid="275" c="false" group="4" id="4" name="pointPellet 275" order="264" sx="1.0" sy="1.0" x="24" y="352" z="0"/>
+        <actor a="0.0" aid="276" c="false" group="4" id="4" name="pointPellet 276" order="265" sx="1.0" sy="1.0" x="32" y="360" z="0"/>
+        <actor a="0.0" aid="277" c="false" group="4" id="4" name="pointPellet 277" order="266" sx="1.0" sy="1.0" x="48" y="360" z="0"/>
+        <actor a="0.0" aid="278" c="false" group="4" id="4" name="pointPellet 278" order="267" sx="1.0" sy="1.0" x="64" y="360" z="0"/>
+        <actor a="0.0" aid="279" c="false" group="4" id="4" name="pointPellet 279" order="268" sx="1.0" sy="1.0" x="80" y="360" z="0"/>
+        <actor a="0.0" aid="281" c="false" group="4" id="4" name="pointPellet 281" order="269" sx="1.0" sy="1.0" x="80" y="400" z="0"/>
+        <actor a="0.0" aid="283" c="false" group="4" id="4" name="pointPellet 283" order="270" sx="1.0" sy="1.0" x="144" y="400" z="0"/>
+        <actor a="0.0" aid="284" c="false" group="4" id="4" name="pointPellet 284" order="271" sx="1.0" sy="1.0" x="128" y="400" z="0"/>
+        <actor a="0.0" aid="285" c="false" group="4" id="4" name="pointPellet 285" order="272" sx="1.0" sy="1.0" x="112" y="400" z="0"/>
+        <actor a="0.0" aid="286" c="false" group="4" id="4" name="pointPellet 286" order="273" sx="1.0" sy="1.0" x="96" y="400" z="0"/>
+        <actor a="0.0" aid="287" c="false" group="4" id="4" name="pointPellet 287" order="274" sx="1.0" sy="1.0" x="64" y="400" z="0"/>
+        <actor a="0.0" aid="288" c="false" group="4" id="4" name="pointPellet 288" order="275" sx="1.0" sy="1.0" x="48" y="400" z="0"/>
+        <actor a="0.0" aid="289" c="false" group="4" id="4" name="pointPellet 289" order="276" sx="1.0" sy="1.0" x="32" y="400" z="0"/>
+        <actor a="0.0" aid="290" c="false" group="4" id="4" name="pointPellet 290" order="277" sx="1.0" sy="1.0" x="32" y="416" z="0"/>
+        <actor a="0.0" aid="291" c="false" group="4" id="4" name="pointPellet 291" order="278" sx="1.0" sy="1.0" x="32" y="432" z="0"/>
+        <actor a="0.0" aid="292" c="false" group="4" id="4" name="pointPellet 292" order="279" sx="1.0" sy="1.0" x="32" y="448" z="0"/>
+        <actor a="0.0" aid="293" c="false" group="4" id="4" name="pointPellet 293" order="280" sx="1.0" sy="1.0" x="48" y="448" z="0"/>
+        <actor a="0.0" aid="294" c="false" group="4" id="4" name="pointPellet 294" order="281" sx="1.0" sy="1.0" x="64" y="448" z="0"/>
+        <actor a="0.0" aid="295" c="false" group="4" id="4" name="pointPellet 295" order="282" sx="1.0" sy="1.0" x="80" y="448" z="0"/>
+        <actor a="0.0" aid="296" c="false" group="4" id="4" name="pointPellet 296" order="283" sx="1.0" sy="1.0" x="96" y="448" z="0"/>
+        <actor a="0.0" aid="297" c="false" group="4" id="4" name="pointPellet 297" order="284" sx="1.0" sy="1.0" x="112" y="448" z="0"/>
+        <actor a="0.0" aid="298" c="false" group="4" id="4" name="pointPellet 298" order="285" sx="1.0" sy="1.0" x="128" y="448" z="0"/>
+        <actor a="0.0" aid="299" c="false" group="4" id="4" name="pointPellet 299" order="286" sx="1.0" sy="1.0" x="144" y="448" z="0"/>
+        <actor a="0.0" aid="300" c="false" group="4" id="4" name="pointPellet 300" order="287" sx="1.0" sy="1.0" x="160" y="448" z="0"/>
+        <actor a="0.0" aid="301" c="false" group="4" id="4" name="pointPellet 301" order="288" sx="1.0" sy="1.0" x="176" y="448" z="0"/>
+        <actor a="0.0" aid="302" c="false" group="4" id="4" name="pointPellet 302" order="289" sx="1.0" sy="1.0" x="192" y="448" z="0"/>
+        <actor a="0.0" aid="303" c="false" group="4" id="4" name="pointPellet 303" order="290" sx="1.0" sy="1.0" x="208" y="448" z="0"/>
+        <actor a="0.0" aid="304" c="false" group="4" id="4" name="pointPellet 304" order="291" sx="1.0" sy="1.0" x="224" y="448" z="0"/>
+        <actor a="0.0" aid="305" c="false" group="4" id="4" name="pointPellet 305" order="292" sx="1.0" sy="1.0" x="240" y="448" z="0"/>
+        <actor a="0.0" aid="306" c="false" group="4" id="4" name="pointPellet 306" order="293" sx="1.0" sy="1.0" x="256" y="448" z="0"/>
+        <actor a="0.0" aid="307" c="false" group="4" id="4" name="pointPellet 307" order="294" sx="1.0" sy="1.0" x="272" y="448" z="0"/>
+        <actor a="0.0" aid="308" c="false" group="4" id="4" name="pointPellet 308" order="295" sx="1.0" sy="1.0" x="288" y="448" z="0"/>
+        <actor a="0.0" aid="309" c="false" group="4" id="4" name="pointPellet 309" order="296" sx="1.0" sy="1.0" x="304" y="448" z="0"/>
+        <actor a="0.0" aid="310" c="false" group="4" id="4" name="pointPellet 310" order="297" sx="1.0" sy="1.0" x="320" y="448" z="0"/>
+        <actor a="0.0" aid="311" c="false" group="4" id="4" name="pointPellet 311" order="298" sx="1.0" sy="1.0" x="336" y="448" z="0"/>
+        <actor a="0.0" aid="312" c="false" group="4" id="4" name="pointPellet 312" order="299" sx="1.0" sy="1.0" x="352" y="448" z="0"/>
+        <actor a="0.0" aid="313" c="false" group="4" id="4" name="pointPellet 313" order="300" sx="1.0" sy="1.0" x="368" y="448" z="0"/>
+        <actor a="0.0" aid="314" c="false" group="4" id="4" name="pointPellet 314" order="301" sx="1.0" sy="1.0" x="384" y="448" z="0"/>
+        <actor a="0.0" aid="315" c="false" group="4" id="4" name="pointPellet 315" order="302" sx="1.0" sy="1.0" x="400" y="448" z="0"/>
+        <actor a="0.0" aid="316" c="false" group="4" id="4" name="pointPellet 316" order="303" sx="1.0" sy="1.0" x="416" y="448" z="0"/>
+        <actor a="0.0" aid="317" c="false" group="4" id="4" name="pointPellet 317" order="304" sx="1.0" sy="1.0" x="432" y="448" z="0"/>
+        <actor a="0.0" aid="318" c="false" group="4" id="4" name="pointPellet 318" order="305" sx="1.0" sy="1.0" x="448" y="448" z="0"/>
+        <actor a="0.0" aid="319" c="false" group="4" id="4" name="pointPellet 319" order="306" sx="1.0" sy="1.0" x="464" y="448" z="0"/>
+        <actor a="0.0" aid="320" c="false" group="4" id="4" name="pointPellet 320" order="307" sx="1.0" sy="1.0" x="480" y="448" z="0"/>
+        <actor a="0.0" aid="321" c="false" group="4" id="4" name="pointPellet 321" order="308" sx="1.0" sy="1.0" x="496" y="448" z="0"/>
+        <actor a="0.0" aid="322" c="false" group="4" id="4" name="pointPellet 322" order="309" sx="1.0" sy="1.0" x="512" y="448" z="0"/>
+        <actor a="0.0" aid="323" c="false" group="4" id="4" name="pointPellet 323" order="310" sx="1.0" sy="1.0" x="528" y="448" z="0"/>
+        <actor a="0.0" aid="324" c="false" group="4" id="4" name="pointPellet 324" order="311" sx="1.0" sy="1.0" x="544" y="448" z="0"/>
+        <actor a="0.0" aid="325" c="false" group="4" id="4" name="pointPellet 325" order="312" sx="1.0" sy="1.0" x="272" y="432" z="0"/>
+        <actor a="0.0" aid="326" c="false" group="4" id="4" name="pointPellet 326" order="313" sx="1.0" sy="1.0" x="272" y="416" z="0"/>
+        <actor a="0.0" aid="327" c="false" group="4" id="4" name="pointPellet 327" order="314" sx="1.0" sy="1.0" x="256" y="416" z="0"/>
+        <actor a="0.0" aid="328" c="false" group="4" id="4" name="pointPellet 328" order="315" sx="1.0" sy="1.0" x="240" y="416" z="0"/>
+        <actor a="0.0" aid="330" c="false" group="4" id="4" name="pointPellet 330" order="316" sx="1.0" sy="1.0" x="232" y="400" z="0"/>
+        <actor a="0.0" aid="331" c="false" group="4" id="4" name="pointPellet 331" order="317" sx="1.0" sy="1.0" x="392" y="400" z="0"/>
+        <actor a="0.0" aid="333" c="false" group="4" id="4" name="pointPellet 333" order="318" sx="1.0" sy="1.0" x="384" y="416" z="0"/>
+        <actor a="0.0" aid="334" c="false" group="4" id="4" name="pointPellet 334" order="319" sx="1.0" sy="1.0" x="368" y="416" z="0"/>
+        <actor a="0.0" aid="335" c="false" group="4" id="4" name="pointPellet 335" order="320" sx="1.0" sy="1.0" x="352" y="416" z="0"/>
+        <actor a="0.0" aid="336" c="false" group="4" id="4" name="pointPellet 336" order="321" sx="1.0" sy="1.0" x="352" y="432" z="0"/>
+        <actor a="0.0" aid="337" c="false" group="4" id="4" name="pointPellet 337" order="322" sx="1.0" sy="1.0" x="480" y="400" z="0"/>
+        <actor a="0.0" aid="338" c="false" group="4" id="4" name="pointPellet 338" order="323" sx="1.0" sy="1.0" x="496" y="400" z="0"/>
+        <actor a="0.0" aid="339" c="false" group="4" id="4" name="pointPellet 339" order="324" sx="1.0" sy="1.0" x="512" y="400" z="0"/>
+        <actor a="0.0" aid="340" c="false" group="4" id="4" name="pointPellet 340" order="325" sx="1.0" sy="1.0" x="528" y="400" z="0"/>
+        <actor a="0.0" aid="341" c="false" group="4" id="4" name="pointPellet 341" order="326" sx="1.0" sy="1.0" x="544" y="400" z="0"/>
+        <actor a="0.0" aid="342" c="false" group="4" id="4" name="pointPellet 342" order="327" sx="1.0" sy="1.0" x="560" y="400" z="0"/>
+        <actor a="0.0" aid="343" c="false" group="4" id="4" name="pointPellet 343" order="328" sx="1.0" sy="1.0" x="576" y="400" z="0"/>
+        <actor a="0.0" aid="344" c="false" group="4" id="4" name="pointPellet 344" order="329" sx="1.0" sy="1.0" x="592" y="400" z="0"/>
+        <actor a="0.0" aid="345" c="false" group="4" id="4" name="pointPellet 345" order="330" sx="1.0" sy="1.0" x="592" y="416" z="0"/>
+        <actor a="0.0" aid="346" c="false" group="4" id="4" name="pointPellet 346" order="331" sx="1.0" sy="1.0" x="592" y="432" z="0"/>
+        <actor a="0.0" aid="347" c="false" group="4" id="4" name="pointPellet 347" order="332" sx="1.0" sy="1.0" x="592" y="448" z="0"/>
+        <actor a="0.0" aid="348" c="false" group="4" id="4" name="pointPellet 348" order="333" sx="1.0" sy="1.0" x="576" y="448" z="0"/>
+        <actor a="0.0" aid="349" c="false" group="4" id="4" name="pointPellet 349" order="334" sx="1.0" sy="1.0" x="560" y="448" z="0"/>
+        <actor a="0.0" aid="350" c="false" group="4" id="4" name="pointPellet 350" order="335" sx="1.0" sy="1.0" x="480" y="320" z="0"/>
+        <actor a="0.0" aid="351" c="false" group="4" id="4" name="pointPellet 351" order="336" sx="1.0" sy="1.0" x="496" y="320" z="0"/>
+        <actor a="0.0" aid="352" c="false" group="4" id="4" name="pointPellet 352" order="337" sx="1.0" sy="1.0" x="512" y="320" z="0"/>
+        <actor a="0.0" aid="353" c="false" group="4" id="4" name="pointPellet 353" order="338" sx="1.0" sy="1.0" x="528" y="320" z="0"/>
+        <actor a="0.0" aid="354" c="false" group="4" id="4" name="pointPellet 354" order="339" sx="1.0" sy="1.0" x="544" y="320" z="0"/>
+        <actor a="0.0" aid="355" c="false" group="4" id="4" name="pointPellet 355" order="340" sx="1.0" sy="1.0" x="560" y="320" z="0"/>
+        <actor a="0.0" aid="356" c="false" group="4" id="4" name="pointPellet 356" order="341" sx="1.0" sy="1.0" x="576" y="320" z="0"/>
+        <actor a="0.0" aid="357" c="false" group="4" id="4" name="pointPellet 357" order="342" sx="1.0" sy="1.0" x="592" y="320" z="0"/>
+        <actor a="0.0" aid="358" c="false" group="4" id="4" name="pointPellet 358" order="343" sx="1.0" sy="1.0" x="600" y="336" z="0"/>
+        <actor a="0.0" aid="359" c="false" group="4" id="4" name="pointPellet 359" order="344" sx="1.0" sy="1.0" x="600" y="352" z="0"/>
+        <actor a="0.0" aid="360" c="false" group="4" id="4" name="pointPellet 360" order="345" sx="1.0" sy="1.0" x="592" y="360" z="0"/>
+        <actor a="0.0" aid="362" c="false" group="4" id="4" name="pointPellet 362" order="346" sx="1.0" sy="1.0" x="544" y="360" z="0"/>
+        <actor a="0.0" aid="363" c="false" group="4" id="4" name="pointPellet 363" order="347" sx="1.0" sy="1.0" x="560" y="360" z="0"/>
+        <actor a="0.0" aid="364" c="false" group="4" id="4" name="pointPellet 364" order="348" sx="1.0" sy="1.0" x="576" y="360" z="0"/>
+        <actor a="0.0" aid="365" c="false" group="4" id="4" name="pointPellet 365" order="349" sx="1.0" sy="1.0" x="240" y="280" z="0"/>
+        <actor a="0.0" aid="366" c="false" group="4" id="4" name="pointPellet 366" order="350" sx="1.0" sy="1.0" x="256" y="280" z="0"/>
+        <actor a="0.0" aid="369" c="false" group="4" id="4" name="pointPellet 369" order="351" sx="1.0" sy="1.0" x="384" y="280" z="0"/>
+        <actor a="0.0" aid="370" c="false" group="4" id="4" name="pointPellet 370" order="352" sx="1.0" sy="1.0" x="368" y="280" z="0"/>
+        <actor a="0.0" aid="371" c="false" group="4" id="4" name="pointPellet 371" order="353" sx="1.0" sy="1.0" x="96" y="368" z="0"/>
+        <actor a="0.0" aid="372" c="false" group="4" id="4" name="pointPellet 372" order="354" sx="1.0" sy="1.0" x="96" y="384" z="0"/>
+        <actor a="0.0" aid="373" c="false" group="4" id="4" name="pointPellet 373" order="355" sx="1.0" sy="1.0" x="528" y="384" z="0"/>
+        <actor a="0.0" aid="374" c="false" group="4" id="4" name="pointPellet 374" order="356" sx="1.0" sy="1.0" x="528" y="368" z="0"/>
+        <actor a="0.0" aid="375" c="true" group="5" id="7" name="ghost_type1 375" order="357" sx="1.0" sy="1.0" x="288" y="232" z="0">
+            <snippets>
+                <s enabled="true" id="7"/>
+                <s enabled="true" id="8">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="1"/>
+                    <prop id="2" list="0" val="0.0"/>
+                    <prop id="3" list="0" val="0.0"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="5" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="6.0"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="1.0"/>
+                    <prop id="10" list="0" val="0.0"/>
+                    <prop id="11" list="0" val="false"/>
+                    <prop id="12" list="0" val="false"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="377" c="false" group="4" id="4" name="pointPellet 377" order="358" sx="1.0" sy="1.0" x="352" y="184" z="0"/>
+        <actor a="0.0" aid="378" c="false" group="4" id="4" name="pointPellet 378" order="359" sx="1.0" sy="1.0" x="336" y="184" z="0"/>
+        <actor a="0.0" aid="379" c="false" group="4" id="4" name="pointPellet 379" order="360" sx="1.0" sy="1.0" x="288" y="184" z="0"/>
+        <actor a="0.0" aid="380" c="false" group="4" id="4" name="pointPellet 380" order="361" sx="1.0" sy="1.0" x="272" y="184" z="0"/>
+        <actor a="0.0" aid="381" c="false" group="5" id="9" name="ghost_type2 381" order="362" sx="1.0" sy="1.0" x="336" y="232" z="0"/>
+        <actor a="0.0" aid="382" c="false" group="5" id="11" name="ghost_type3 382" order="363" sx="1.0" sy="1.0" x="312" y="232" z="0"/>
+        <actor a="0.0" aid="383" c="false" group="4" id="4" name="pointPellet 383" order="364" sx="1.0" sy="1.0" x="280" y="336" z="0"/>
+        <actor a="0.0" aid="384" c="false" group="4" id="4" name="pointPellet 384" order="365" sx="1.0" sy="1.0" x="344" y="336" z="0"/>
+        <actor a="0.0" aid="385" c="false" group="4" id="4" name="pointPellet 385" order="366" sx="1.0" sy="1.0" x="280" y="176" z="0"/>
+        <actor a="0.0" aid="386" c="false" group="4" id="4" name="pointPellet 386" order="367" sx="1.0" sy="1.0" x="344" y="176" z="0"/>
+        <actor a="0.0" aid="387" c="false" group="4" id="4" name="pointPellet 387" order="368" sx="1.0" sy="1.0" x="400" y="184" z="0"/>
+        <actor a="0.0" aid="388" c="false" group="4" id="4" name="pointPellet 388" order="369" sx="1.0" sy="1.0" x="224" y="184" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="28,16.0,208.0,16.0,144.0,80.0,144.0,80.0,128.0,16.0,128.0,16.0,64.0,144.0,64.0,144.0,0.0,0.0,0.0,0.0,16.0,128.0,16.0,128.0,48.0,0.0,48.0,0.0,224.0,640.0,224.0,640.0,48.0,512.0,48.0,512.0,16.0,640.0,16.0,640.0,0.0,496.0,0.0,496.0,64.0,624.0,64.0,624.0,128.0,560.0,128.0,560.0,144.0,624.0,144.0,624.0,208.0" x="0.0" y="256.0"/>
+        <p pts="4,80.0,16.0,80.0,0.0,0.0,0.0,0.0,16.0" x="192.0" y="352.0"/>
+        <p pts="8,80.0,16.0,128.0,16.0,128.0,0.0,0.0,0.0,0.0,16.0,48.0,16.0,48.0,64.0,80.0,64.0" x="256.0" y="304.0"/>
+        <p pts="4,16.0,0.0,0.0,0.0,0.0,64.0,16.0,64.0" x="432.0" y="256.0"/>
+        <p pts="24,624.0,160.0,496.0,160.0,496.0,224.0,640.0,224.0,640.0,208.0,512.0,208.0,512.0,176.0,640.0,176.0,640.0,0.0,0.0,0.0,0.0,176.0,128.0,176.0,128.0,208.0,0.0,208.0,0.0,224.0,144.0,224.0,144.0,160.0,16.0,160.0,16.0,16.0,304.0,16.0,304.0,80.0,336.0,80.0,336.0,16.0,624.0,16.0" x="0.0" y="0.0"/>
+        <p pts="4,96.0,32.0,96.0,0.0,0.0,0.0,0.0,32.0" x="176.0" y="48.0"/>
+        <p pts="8,224.0,48.0,224.0,32.0,176.0,32.0,176.0,0.0,160.0,0.0,160.0,32.0,0.0,32.0,0.0,48.0" x="48.0" y="400.0"/>
+        <p pts="6,80.0,64.0,96.0,64.0,96.0,0.0,0.0,0.0,0.0,16.0,80.0,16.0" x="48.0" y="336.0"/>
+        <p pts="12,16.0,48.0,16.0,16.0,48.0,16.0,48.0,0.0,0.0,0.0,0.0,64.0,128.0,64.0,128.0,0.0,80.0,0.0,80.0,16.0,112.0,16.0,112.0,48.0" x="256.0" y="208.0"/>
+        <p pts="4,96.0,0.0,0.0,0.0,0.0,32.0,96.0,32.0" x="368.0" y="48.0"/>
+        <p pts="8,80.0,112.0,80.0,0.0,64.0,0.0,64.0,48.0,0.0,48.0,0.0,64.0,64.0,64.0,64.0,112.0" x="368.0" y="112.0"/>
+        <p pts="8,224.0,48.0,224.0,32.0,64.0,32.0,64.0,0.0,48.0,0.0,48.0,32.0,0.0,32.0,0.0,48.0" x="368.0" y="400.0"/>
+        <p pts="6,96.0,0.0,0.0,0.0,0.0,64.0,16.0,64.0,16.0,16.0,96.0,16.0" x="496.0" y="336.0"/>
+        <p pts="8,80.0,16.0,128.0,16.0,128.0,0.0,0.0,0.0,0.0,16.0,48.0,16.0,48.0,64.0,80.0,64.0" x="256.0" y="112.0"/>
+        <p pts="8,80.0,64.0,80.0,48.0,16.0,48.0,16.0,0.0,0.0,0.0,0.0,112.0,16.0,112.0,16.0,64.0" x="192.0" y="112.0"/>
+        <p pts="4,96.0,16.0,96.0,0.0,0.0,0.0,0.0,16.0" x="48.0" y="112.0"/>
+        <p pts="8,80.0,48.0,80.0,16.0,128.0,16.0,128.0,0.0,0.0,0.0,0.0,16.0,48.0,16.0,48.0,48.0" x="256.0" y="400.0"/>
+        <p pts="4,0.0,64.0,16.0,64.0,16.0,0.0,0.0,0.0" x="192.0" y="256.0"/>
+        <p pts="4,96.0,32.0,96.0,0.0,0.0,0.0,0.0,32.0" x="48.0" y="48.0"/>
+        <p pts="4,80.0,16.0,80.0,0.0,0.0,0.0,0.0,16.0" x="368.0" y="352.0"/>
+        <p pts="4,96.0,32.0,96.0,0.0,0.0,0.0,0.0,32.0" x="496.0" y="48.0"/>
+        <p pts="4,96.0,16.0,96.0,0.0,0.0,0.0,0.0,16.0" x="496.0" y="112.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
